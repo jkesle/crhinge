@@ -19,3 +19,6 @@ cd ~\Downloads\chringe
 # execute the script using the node command
 node ./hinge.js -m <path/to/your/matches.json>
 ```
+
+## Example
+![Console output after executing hinge.js with node](./assets/example.png)
